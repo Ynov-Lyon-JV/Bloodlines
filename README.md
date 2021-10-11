@@ -35,7 +35,7 @@ Le merge se fait automatiquement dans la plupart des cas.
 **ATTENTION**: Au moment du merge, il peux y avoir des conflits, votre projet local va passé en **état de "MERGING".**
 
 ### 1.2 Installation
-1. ![Telercharger git] (https://git-scm.com/downloads)
+1. ![Télécharger git] (https://git-scm.com/downloads)
 2. Lancer l'exécutable
 3. Cliquer sur "Next"
 4. Choisir son dossier d'Installation et cliquer sur "Next"
@@ -49,7 +49,9 @@ Le merge se fait automatiquement dans la plupart des cas.
 12. Laisser "Default (fast-forward or merge). Cliquer sur "Next"
 13. Garder "Git Credential Manager Core". Cliquer "Next"
 14. Garder les options cocher tel quel et cliquer sur "Next"
-15. Decocher "Enable experimental support for pseudo consoles" et cliquer sur "Install"
+15. Décocher "Enable experimental support for pseudo consoles" et cliquer sur "Install"
+16. [Télécharger Git LFS] (https://git-lfs.github.com/)
+17. Lancer l'exécutable et installer
 
 ### 1.3 Ouvrir git
 Clic droit dans le dossier de votre choix
